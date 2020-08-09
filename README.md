@@ -17,11 +17,13 @@
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/Czesiek2000/)](https://github.com/Czesiek2000/)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&link=https://github.com/Czesiek2000/)](https://github.com/Czesiek2000/)
+[![Electron](https://img.shields.io/badge/-Electron-blue?style=flat-square&logo=electron&logoColor=black&link=https://github.com/Czesiek2000/)](https://github.com/Czesiek2000/)
 
 
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/Czesiek2000/)](https://github.com/Czesiek2000/)
 [![Figma](https://img.shields.io/badge/-Figma-gray?style=flat-square&logo=Figma)](https://github.com/Czesiek2000/)
-[![Figma](https://img.shields.io/badge/-VisualStudioCode-gray?style=flat-square&logo=v)](https://github.com/Czesiek2000/)
+[![Adobe XD](https://img.shields.io/badge/AdobeXd-gray?style=flat-square&logo=adobexd)](https://github.com/Czesiek2000/)
+[![Visual Studio Code](https://img.shields.io/badge/-VisualStudioCode-gray?style=flat-square&logo=visual-studio-code)](https://github.com/Czesiek2000/)
 
 [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)](https://github.com/Czesiek2000/)
 [![React](https://img.shields.io/badge/-Vuejs-black?style=flat-square&logo=vue.js)](https://github.com/Czesiek2000/)
@@ -29,14 +31,15 @@
 [![Gatsby](https://img.shields.io/badge/-Gatsby-purple?style=flat-square&logo=Gatsby&logoColor=white)](https://github.com/Czesiek2000/)
 
 [![Java](https://img.shields.io/badge/-Java-important?style=flat-square&logo=Java&logoColor=black)](https://github.com/Czesiek2000/)
-[![Cpp](https://img.shields.io/badge/-c++-blue?style=flat-square&logo=C&logoColor=white)](https://github.com/Czesiek2000/)
+[![Cpp](https://img.shields.io/badge/-c++-blue?style=flat-square&logo=c&logoColor=white)](https://github.com/Czesiek2000/)
+[![Bash](https://img.shields.io/badge/Bash-blue?style=flat-square&logo=gnubash&logoColor=white)](https://github.com/Czesiek2000/)
 
 
 - 🔭 I’m currently working on self development, learning and exploring new stuff
 - 🌱 I’m currently learning Typescript, PWA, BASH
 - 📆 Planning to return to learning React and Vue, finish old projects and start contribute to open source projects 
-- 🤔 I’m looking for future job
-- 👑 Developing open source 
+- 🤔 Looking for future job
+- 👑 Developing open source projects for GTA alternative multiplayers: https://gitlab.com/Czesiek2000
 
 <!--
 **Czesiek2000/Czesiek2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
