@@ -3,11 +3,11 @@
 
 ## Contact me
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Czesiek2000/)](https://www.linkedin.com/in//)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Czesiek2000/)](https://www.linkedin.com/in/michalczech00/)
 [![Messanger](https://img.shields.io/badge/-Messenger-blue?style=flat-square&logo=Messenger&logoColor=white&link=https://www.messenger.com/)](https://www.m.me/michalczech00)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=gmail:michal.czech00@gmail.com)](gmail:michal.czech00@gmail.com)
 
-<p><a href="https://github.com/Czesiek2000/portfolioWebiste">🌐 Check out my website</a></p>
+<p><a href="https://czesiek2000.github.io/portfolioWebsite/" target="_blank">🌐 Check out my website</a></p>
 
 ## Technologies
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/Czesiek2000/)](https://github.com/Czesiek2000/)
