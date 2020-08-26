@@ -1,10 +1,10 @@
 ### Hi there 👋
-<p>Hi, I am Michał Czech. I am Polish developer currently studying.</p>
+<p>I am Michał Czech. I am Polish developer currently studying IT and learning programming .</p>
 
 ## Contact me
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Czesiek2000/)](https://www.linkedin.com/in//)
-[![Messanger](https://img.shields.io/badge/-Messenger-blue?style=flat-square&logo=Messenger&logoColor=white&link=https://www.messenger.com/)](https://www.messenger.com)
+[![Messanger](https://img.shields.io/badge/-Messenger-blue?style=flat-square&logo=Messenger&logoColor=white&link=https://www.messenger.com/)](https://www.m.me/michalczech00)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=gmail:michal.czech00@gmail.com)](gmail:michal.czech00@gmail.com)
 
 <p><a href="https://github.com/Czesiek2000/portfolioWebiste">🌐 Check out my website</a></p>
@@ -35,23 +35,10 @@
 [![Bash](https://img.shields.io/badge/Bash-blue?style=flat-square&logo=gnubash&logoColor=white)](https://github.com/Czesiek2000/)
 
 
-- 🔭 I’m currently working on self development, learning and exploring new stuff
+- 🔭 I’m currently working on learning and exploring new stuff
 - 🌱 I’m currently learning Typescript, PWA, BASH
 - 📆 Planning to return to learning React and Vue, finish old projects and start contribute to open source projects 
 - 🤔 Looking for future job
+- ❤️ Love playing good games and watch good movie or series in free time, when I am not programming of course
 - 👑 Developing open source projects for GTA alternative multiplayers: https://gitlab.com/Czesiek2000
 
-<!--
-**Czesiek2000/Czesiek2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
