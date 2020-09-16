@@ -1,5 +1,5 @@
 ### Hi there 👋
-<p>I am Michał Czech. I am 20 years old. I am Polish developer currently studying IT and learning programming. </p>
+<p>My name is Michał Czech. I am 20 years old. I am from Poland currently studying IT and learning programming. </p>
 
 ## Contact me
 
