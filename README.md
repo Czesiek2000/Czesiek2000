@@ -1,5 +1,5 @@
 ### Hi there 👋
-<p>I am Michał Czech. I am Polish developer currently studying IT and learning programming .</p>
+<p>I am Michał Czech. I am 20 years old. I am Polish developer currently studying IT and learning programming. </p>
 
 ## Contact me
 
@@ -35,10 +35,9 @@
 [![Bash](https://img.shields.io/badge/Bash-blue?style=flat-square&logo=gnubash&logoColor=white)](https://github.com/Czesiek2000/)
 
 
-- 🔭 I’m currently working on learning and exploring new stuff
-- 🌱 I’m currently learning Typescript, PWA, BASH
-- 📆 Planning to return to learning React and Vue, finish old projects and start contribute to open source projects 
-- 🤔 Looking for future job
-- ❤️ Love playing good games and watch good movie or series in free time, when I am not programming of course
-- 👑 Developing open source projects for GTA alternative multiplayers: https://gitlab.com/Czesiek2000
-
+- 🔭 I’m currently working on learning and exploring new stuff.
+- 🌱 I’m currently learning Typescript, PWA, BASH.
+- 📆 Planning to return to learn React and Vue, finish old projects and start contribute to open source projects. 
+- 🤔 Looking for future job.
+- ❤️ Love playing good games and watch good movie or series in free time, when I am not programming of course.
+- 👑 Developing open source projects for GTA alternative multiplayers: https://gitlab.com/Czesiek2000 .
